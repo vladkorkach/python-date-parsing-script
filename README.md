@@ -1,10 +1,13 @@
-How to run the script:
-In terminal:
+How to run the script: In terminal:
 
-$ ./dates_task.py <filename>
-or
-$ python3 dates_task.py <filename>
+    $ ./dates_task.py 
 
-example:
-$ ./dates_task.py file.txt
-$ python3 dates_task.py file.txt
+or 
+
+    $ python3 dates_task.py
+
+example: 
+
+    $ ./dates_task.py file.txt 
+    $ python3 dates_task.py file.txt
+
